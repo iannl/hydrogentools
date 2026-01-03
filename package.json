@@ -1,0 +1,24 @@
+{
+  "name": "hydrogentools",
+  "bin": "./bin/hydrogentools.js",
+  "version": "0.1.0",
+  "description": "CLI Tools for HydrogenLGBM",
+  "homepage": "https://github.com/iannl/hydrogentools#readme",
+  "bugs": {
+    "url": "https://github.com/iannl/hydrogentools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iannl/hydrogentools.git"
+  },
+  "license": "Apache-2.0",
+  "author": "iannl",
+  "type": "module",
+  "main": "bin/hydrogentools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
