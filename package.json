@@ -1,6 +1,8 @@
 {
   "name": "hydrogentools",
-  "bin": "./bin/hydrogentools.js",
+  "bin": {
+    "hydrogentools": "bin/hydrogentools.js"
+  },
   "version": "0.1.0",
   "description": "CLI Tools for HydrogenLGBM",
   "homepage": "https://github.com/iannl/hydrogentools#readme",
